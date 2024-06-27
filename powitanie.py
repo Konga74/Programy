@@ -1,0 +1,1 @@
+priny ("witam w programie")
